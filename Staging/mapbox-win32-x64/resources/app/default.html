@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pete Wicks</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.20.1/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v2.0.0/mapbox-gl-directions.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.20.1/mapbox-gl.css' rel='stylesheet' />
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v2.0.0/mapbox-gl-directions.css' type='text/css' />
+    <link rel='stylesheet' href='./css/styles.css' type='text/css' />
+</head>
+<body>
+<div id='map'></div>
+<div class='overlay'>
+    <button id='edit'>Edit</button>
+    <button id='driving'>Drive</button>
+</div>
+<div class="editSite" id="editForm">
+    <table class="form-table">
+        <tbody>
+            <tr>
+                <td>
+                    Name
+                </td>
+                <td>
+                    <input type="text" id="name">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Address 1
+                </td>
+                <td>
+                    <input type="text" id="address1">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Address 2
+                </td>
+                <td>
+                    <input type="text" id="address2">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Address 3
+                </td>
+                <td>
+                    <input type="text" id="address3">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Address 4
+                </td>
+                <td>
+                    <input type="text" id="address4">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Telephone
+                </td>
+                <td>
+                    <input type="text" id="tel">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Website
+                </td>
+                <td>
+                    <input type="url" id="url">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Lat
+                </td>
+                <td>
+                    <input type="number" id="latitude">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Long
+                </td>
+                <td>
+                    <input type="number" id="longitude">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div>
+        <button id='save'>Save</button>
+    </div>
+</div>
+
+
+<script>window.$ = window.jQuery = require('./js/jquery-2.1.3.min.js');</script>
+<script src='./js/app/utils.js'></script>
+<script src='./js/app/mapbox.js'></script>
+<script src='./js/app/fileService.js'></script>
+<script src='./js/app/featuresService.js'></script>
+<script src='./js/app/popupTemplateService.js'></script>
+<script src='./js/site.js'></script>
+</body>
+</html>

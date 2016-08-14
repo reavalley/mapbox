@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rea Valley Software",
+        "address1": "4 Brookside Close",
+        "address2": "Worthen",
+        "address3": "Shrewsbury",
+        "address4": "Shropshire",
+        "postCode": "SY5 9HP",
+        "tel": "01743891670",
+        "url": "http://www.reavalleysoftware.co.uk",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "ci8ba525k01ehjfkv09vvkesd"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.105722,
+          51.525125
+        ],
+        "type": "Point"
+      },
+      "id": "ci9bx1qfl3ev9iylvpfhpkk6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "asd",
+        "address1": "asd",
+        "address2": "asd",
+        "address3": "asd",
+        "address4": "asd",
+        "tel": "asd",
+        "url": "asd",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "29dc4f98-ced4-ecfd-3b9c-863bdfc0c96d"
+      },
+      "geometry": {
+        "coordinates": [
+          "-1.1587524752473541",
+          "53.3354338970249"
+        ],
+        "type": "Point"
+      },
+      "id": "98640a62-6c09-e4b9-fb36-f420eadc55b1"
+    }
+  ],
+  "id": "russwicks.lmfmomc1"
+}

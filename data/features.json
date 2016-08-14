@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rea Valley Software",
+        "address1": "4 Brookside Close",
+        "address2": "Worthen",
+        "address3": "Shrewsbury",
+        "address4": "Shropshire",
+        "postCode": "SY5 9HP",
+        "tel": "01743891670",
+        "url": "http://www.reavalleysoftware.co.uk",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "ci8ba525k01ehjfkv09vvkesd"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.105722,
+          51.525125
+        ],
+        "type": "Point"
+      },
+      "id": "ci9bx1qfl3ev9iylvpfhpkk6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarah Wicks",
+        "address1": "White House",
+        "address2": "White House",
+        "address3": "White House",
+        "address4": "White House",
+        "tel": "01743859658",
+        "url": "http://www.google.co.uk",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "64d9bc3e-f262-25e5-2915-6f7360b7b74b"
+      },
+      "geometry": {
+        "coordinates": [
+          "-3.9290932800479936",
+          "55.36483679104148"
+        ],
+        "type": "Point"
+      },
+      "id": "5ed52ff3-2681-de9f-2ce9-3f5db451b23c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eddfg",
+        "address1": "dfsfd",
+        "address2": "dfsfd",
+        "address3": "dfsfd",
+        "address4": "dfsfd",
+        "tel": "dfgdf",
+        "url": "dfgdfgdf",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "1585dd05-5c11-721c-c95c-cceccccd4676"
+      },
+      "geometry": {
+        "coordinates": [
+          "-2.492402177298999",
+          "54.57357476827909"
+        ],
+        "type": "Point"
+      },
+      "id": "c30c2a8a-38f5-82fa-b317-61ea3fd1acbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sadf",
+        "address1": "asdf",
+        "address2": "asdf",
+        "address3": "asdf",
+        "address4": "asdf",
+        "tel": "asdf",
+        "url": "asdf",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "f82e609a-e273-d9fd-1702-aad5abdaa2ab"
+      },
+      "geometry": {
+        "coordinates": [
+          "-2.1105650659958712",
+          "52.188653465672246"
+        ],
+        "type": "Point"
+      },
+      "id": "d6c139ae-97d9-a51c-c3ce-a3f046fe223e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "qdasd",
+        "address1": "asda",
+        "address2": "asda",
+        "address3": "asda",
+        "address4": "asda",
+        "tel": "asd",
+        "url": "asd",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "1c1a67c6-c2cf-6b7e-d9bc-145a9693eac3"
+      },
+      "geometry": {
+        "coordinates": [
+          "-1.1415243902439158",
+          "52.94960046267116"
+        ],
+        "type": "Point"
+      },
+      "id": "5b3635ca-71e4-56c4-ff8d-74740826045e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sad",
+        "address1": "asd",
+        "address2": "asd",
+        "address3": "asd",
+        "address4": "asd",
+        "tel": "asd",
+        "url": "asd",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "e7f893c2-c92d-e7fc-cda0-5a920f4e006f"
+      },
+      "geometry": {
+        "coordinates": [
+          "-2.3792073170732806",
+          "50.976163022066174"
+        ],
+        "type": "Point"
+      },
+      "id": "8de869ce-f18e-bc1f-91c6-fad52da09fc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "asd",
+        "address1": "asd",
+        "address2": "asd",
+        "address3": "asd",
+        "address4": "asd",
+        "tel": "asd",
+        "url": "asd",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "3d43af89-f3b8-395a-83b9-3f4531e392f2"
+      },
+      "geometry": {
+        "coordinates": [
+          "-3.0708536585365493",
+          "52.7186893752305"
+        ],
+        "type": "Point"
+      },
+      "id": "5db5ea33-adb1-487c-3d11-f73f87de5969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AS",
+        "address1": "as",
+        "address2": "as",
+        "address3": "as",
+        "address4": "as",
+        "tel": "asd",
+        "url": "asd",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "id": "ecc8a6b2-8da0-c89c-01fe-8655f7123ab0"
+      },
+      "geometry": {
+        "coordinates": [
+          "-0.4680792682927688",
+          "53.87174469996552"
+        ],
+        "type": "Point"
+      },
+      "id": "9b99c1e3-8c58-9327-0b5e-bee047601fc3"
+    }
+  ],
+  "id": "russwicks.lmfmomc1"
+}
