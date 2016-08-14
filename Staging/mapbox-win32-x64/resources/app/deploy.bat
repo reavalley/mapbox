@@ -1,1 +1,0 @@
-electron-packager C:\Development\pwicks mapbox --platform=win32 --arch=all --version=0.35.2 --out=Staging --version-string.CompanyName=reavalley--version-string.ProductName=mapbox --version-string.ProductVersion=1.0.0
